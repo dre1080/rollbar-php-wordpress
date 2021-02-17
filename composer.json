@@ -4,7 +4,7 @@
     "type": "wordpress-plugin",
     "require": {
         "rollbar/rollbar": "^1",
-        "phpunit/phpunit": "4.8.*",
+        "phpunit/phpunit": "*",
         "michelf/php-markdown": "*"
     },
     "license": "GNU GPL",
